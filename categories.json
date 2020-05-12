@@ -1,0 +1,163 @@
+[{ name: 'Front End', category: 'tech', category_id: 1}
+{ name: 'Back End', category: 'tech', category_id: 1}
+{ name: 'Full Stack', category: 'tech', category_id: 1}
+{ name: 'Software engineer/developer', category: 'tech', category_id: 1}
+{ name: 'UX designer', category: 'tech', category_id: 1}
+{ name: 'UI designer', category: 'tech', category_id: 1}
+{ name: 'Product designer', category: 'tech', category_id: 1}
+{ name: 'Product manager', category: 'tech', category_id: 1}
+{ name: 'Mobile Engineer', category: 'tech', category_id: 1}
+{ name: 'Junior', category: 'tech', category_id: 1}
+{ name: 'Mid', category: 'tech', category_id: 1}
+{ name: 'Senior', category: 'tech', category_id: 1}
+{ name: 'Data Engineer', category: 'tech', category_id: 1}
+{ name: 'Senior Application Engineer', category: 'tech', category_id: 1}
+{ name: 'Senior Software Development Engineer', category: 'tech', category_id: 1}
+{ name: 'iOS Developer Intern', category: 'tech', category_id: 1}
+{ name: 'Android Developer Intern', category: 'tech', category_id: 1}
+{ name: 'Chief Technology Officer', category: 'tech', category_id: 1}
+{ name: 'CTO', category: 'tech', category_id: 1}
+{ name: 'Director Of Software Engineering', category: 'tech', category_id: 1}
+{ name: 'Engineering Manager', category: 'tech', category_id: 1}
+{ name: 'Head Of Engineering', category: 'tech', category_id: 1}
+{ name: 'Head Of Technology', category: 'tech', category_id: 1}
+{ name: 'Head Of Software Development', category: 'tech', category_id: 1}
+{ name: 'Director Of Engineering', category: 'tech', category_id: 1}
+{ name: 'Software Development Manager', category: 'tech', category_id: 1}
+{ name: 'Software Engineering Manager', category: 'tech', category_id: 1}
+{ name: 'VP Engineering', category: 'tech', category_id: 1}
+{ name: 'Tech Lead', category: 'tech', category_id: 1}
+{ name: 'Technical Architect', category: 'tech', category_id: 1}
+{ name: 'Technical Lead', category: 'tech', category_id: 1}
+{ name: 'API Developer', category: 'tech', category_id: 1}
+{ name: 'Algorithms Developer', category: 'tech', category_id: 1}
+{ name: 'Android Lead', category: 'tech', category_id: 1}
+{ name: 'Application Developer', category: 'tech', category_id: 1}
+{ name: 'Application Support Developer', category: 'tech', category_id: 1}
+{ name: 'Architect', category: 'tech', category_id: 1}
+{ name: 'Artificial Intelligence Developer', category: 'tech', category_id: 1}
+{ name: 'Automation Engineer', category: 'tech', category_id: 1}
+{ name: 'Automation Test Engineer', category: 'tech', category_id: 1}
+{ name: 'Back End Developer', category: 'tech', category_id: 1}
+{ name: 'Big Data Architect', category: 'tech', category_id: 1}
+{ name: 'Blockchain Developer', category: 'tech', category_id: 1}
+{ name: 'Bot Developer', category: 'tech', category_id: 1}
+{ name: 'Chatbot Developer', category: 'tech', category_id: 1}
+{ name: 'Chief Architect', category: 'tech', category_id: 1}
+{ name: 'Cloud Architect', category: 'tech', category_id: 1}
+{ name: 'Cloud Developer', category: 'tech', category_id: 1}
+{ name: 'Cloud Solutions Architect', category: 'tech', category_id: 1}
+{ name: 'Computer Vision Developer', category: 'tech', category_id: 1}
+{ name: 'Computer Vision Scientist', category: 'tech', category_id: 1}
+{ name: 'Controls Developer', category: 'tech', category_id: 1}
+{ name: 'Customer Success Developer', category: 'tech', category_id: 1}
+{ name: 'Data Architect', category: 'tech', category_id: 1}
+{ name: 'Data Developer', category: 'tech', category_id: 1}
+{ name: 'Data Science Developer', category: 'tech', category_id: 1}
+{ name: 'Database Architect', category: 'tech', category_id: 1}
+{ name: 'Database Developer', category: 'tech', category_id: 1}
+{ name: 'Deep Learning Developer', category: 'tech', category_id: 1}
+{ name: 'Developer', category: 'tech', category_id: 1}
+{ name: 'Developer Evangelist', category: 'tech', category_id: 1}
+{ name: 'Developer Team Lead', category: 'tech', category_id: 1}
+{ name: 'Devops Engineer', category: 'tech', category_id: 1}
+{ name: 'Distributed Systems Developer', category: 'tech', category_id: 1}
+{ name: 'Engagement Manager', category: 'tech', category_id: 1}
+{ name: 'Etl Developer', category: 'tech', category_id: 1}
+{ name: 'Founding Developer', category: 'tech', category_id: 1}
+{ name: 'Front End Developer', category: 'tech', category_id: 1}
+{ name: 'Full Stack Engineer', category: 'tech', category_id: 1}
+{ name: 'Game Developer', category: 'tech', category_id: 1}
+{ name: 'Growth Developer', category: 'tech', category_id: 1}
+{ name: 'IT Consultant', category: 'tech', category_id: 1}
+{ name: 'IT Support Specialist', category: 'tech', category_id: 1}
+{ name: 'Information Security Developer', category: 'tech', category_id: 1}
+{ name: 'Infrastructure Engineer', category: 'tech', category_id: 1}
+{ name: 'Integration Developer', category: 'tech', category_id: 1}
+{ name: 'Integrations Developer', category: 'tech', category_id: 1}
+{ name: 'Java Architect', category: 'tech', category_id: 1}
+{ name: 'Lead Software Architect', category: 'tech', category_id: 1}
+{ name: 'Machine Learning Developer', category: 'tech', category_id: 1}
+{ name: 'Magento Developer', category: 'tech', category_id: 1}
+{ name: 'Mobile App Engineer', category: 'tech', category_id: 1}
+{ name: 'Mobile Architect', category: 'tech', category_id: 1}
+{ name: 'Mobile Engineer', category: 'tech', category_id: 1}
+{ name: 'Mobile QA Engineer', category: 'tech', category_id: 1}
+{ name: 'Natural Language Processing Developer', category: 'tech', category_id: 1}
+{ name: 'Operations Engineer', category: 'tech', category_id: 1}
+{ name: 'Phonegap Developer', category: 'tech', category_id: 1}
+{ name: 'Platform Architect', category: 'tech', category_id: 1}
+{ name: 'Platform Engineer', category: 'tech', category_id: 1}
+{ name: 'Product Engineer', category: 'tech', category_id: 1}
+{ name: 'Product Support Engineer', category: 'tech', category_id: 1}
+{ name: 'Programmer', category: 'tech', category_id: 1}
+{ name: 'QA Analyst', category: 'tech', category_id: 1}
+{ name: 'QA Automation Engineer', category: 'tech', category_id: 1}
+{ name: 'QA Engineer', category: 'tech', category_id: 1}
+{ name: 'QA Manager', category: 'tech', category_id: 1}
+{ name: 'QA Test Engineer', category: 'tech', category_id: 1}
+{ name: 'Quality Analyst', category: 'tech', category_id: 1}
+{ name: 'Quality Assurance', category: 'tech', category_id: 1}
+{ name: 'Quality Assurance Analyst', category: 'tech', category_id: 1}
+{ name: 'Quality Assurance Specialist', category: 'tech', category_id: 1}
+{ name: 'React Native Developer', category: 'tech', category_id: 1}
+{ name: 'Research Engineer', category: 'tech', category_id: 1}
+{ name: 'Robotics Engineer', category: 'tech', category_id: 1}
+{ name: 'Salesforce Administrator', category: 'tech', category_id: 1}
+{ name: 'Salesforce Developer', category: 'tech', category_id: 1}
+{ name: 'Search Engineer', category: 'tech', category_id: 1}
+{ name: 'Security Engineer', category: 'tech', category_id: 1}
+{ name: 'Site Reliability Engineer', category: 'tech', category_id: 1}
+{ name: 'Software Architect', category: 'tech', category_id: 1}
+{ name: 'Software Designer', category: 'tech', category_id: 1}
+{ name: 'Software Engineer', category: 'tech', category_id: 1}
+{ name: 'Software Engineer In Test', category: 'tech', category_id: 1}
+{ name: 'Software Tester', category: 'tech', category_id: 1}
+{ name: 'Solution Architect', category: 'tech', category_id: 1}
+{ name: 'Solutions Engineer', category: 'tech', category_id: 1}
+{ name: 'Support Engineer', category: 'tech', category_id: 1}
+{ name: 'System Administrator', category: 'tech', category_id: 1}
+{ name: 'System Architect', category: 'tech', category_id: 1}
+{ name: 'Technical Support Engineer', category: 'tech', category_id: 1}
+{ name: 'Test Engineer', category: 'tech', category_id: 1}
+{ name: 'Unity Engineer', category: 'tech', category_id: 1}
+{ name: 'Web Application Engineer', category: 'tech', category_id: 1}
+{ name: 'Web Developer', category: 'tech', category_id: 1}
+{ name: 'Website Developer', category: 'tech', category_id: 1}
+{ name: 'Wordpress Developer', category: 'tech', category_id: 1}
+{ name: 'iOS Lead', category: 'tech', category_id: 1}
+{ name: 'Junior UI / UX Designer', category: 'tech', category_id: 1}
+{ name: 'Junior UX Designer', category: 'tech', category_id: 1}
+{ name: 'Lead UI / UX Designer', category: 'tech', category_id: 1}
+{ name: 'Lead UX Designer', category: 'tech', category_id: 1}
+{ name: 'Digital Designer', category: 'tech', category_id: 1}
+{ name: 'UI / UX Design Lead', category: 'tech', category_id: 1}
+{ name: 'UI / UX Designer', category: 'tech', category_id: 1}
+{ name: 'UI / UX Developer', category: 'tech', category_id: 1}
+{ name: 'UI Designer', category: 'tech', category_id: 1}
+{ name: 'User Experience Designer', category: 'tech', category_id: 1}
+{ name: 'User Experience Lead', category: 'tech', category_id: 1}
+{ name: 'User Experience Researcher', category: 'tech', category_id: 1}
+{ name: 'Visual UI Designer', category: 'tech', category_id: 1}
+{ name: 'Visual UX Designer', category: 'tech', category_id: 1}
+{ name: 'Mobile UI / UX Designer', category: 'tech', category_id: 1}
+{ name: 'Mobile UI Designer', category: 'tech', category_id: 1}
+{ name: 'Data Science', category: 'tech', category_id: 1}
+{ name: 'Data Scientist', category: 'tech', category_id: 1}
+{ name: 'Chief Data Scientist', category: 'tech', category_id: 1}
+{ name: 'Data Scientist Analyst', category: 'tech', category_id: 1}
+{ name: 'Junior Data Scientist', category: 'tech', category_id: 1}
+{ name: 'Lead Data Scientist', category: 'tech', category_id: 1}
+{ name: 'Principal Data Scientist', category: 'tech', category_id: 1}
+{ name: 'Data Engineering', category: 'tech', category_id: 1}
+{ name: 'Data Engineer', category: 'tech', category_id: 1}
+{ name: 'Data Analysis', category: 'tech', category_id: 1}
+{ name: 'Data Analyst', category: 'tech', category_id: 1}
+{ name: 'Analytics Manager', category: 'tech', category_id: 1}
+{ name: 'Data Analytics Manager', category: 'tech', category_id: 1}
+{ name: 'Machine Learning', category: 'tech', category_id: 1}
+{ name: 'Data Scientist Machine Learning', category: 'tech', category_id: 1}
+{ name: 'Machine Learning Engineer Data Scientist', category: 'tech', category_id: 1}
+{ name: 'Machine Learning Expert', category: 'tech', category_id: 1}
+{ name: 'Machine Learning Lead', category: 'tech', category_id: 1}
+{ name: 'Machine Learning Scientist', category: 'tech', category_id: 1}]
