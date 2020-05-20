@@ -143,8 +143,6 @@
 { "name": "Principal Data Scientist", "category": "tech", "category_id": 1},
 { "name": "Data Engineering", "category": "tech", "category_id": 1},
 { "name": "Data Engineer", "category": "tech", "category_id": 1},
-{ "name": "Data Analysis", "category": "tech", "category_id": 1},
-{ "name": "Data Analyst", "category": "tech", "category_id": 1},
 { "name": "Analytics Manager", "category": "tech", "category_id": 1},
 { "name": "Data Analytics Manager", "category": "tech", "category_id": 1},
 { "name": "Machine Learning", "category": "tech", "category_id": 1},
